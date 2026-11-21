@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: rwandan-restitution-roadmap-and-qsf-trust-execution
-  name: Rwandan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/rwandan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_rw_001
+    name: Rwanda Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_002
+    name: Rwanda Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_003
+    name: Rwanda Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_004
+    name: Rwanda Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_005
+    name: Rwanda Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_006
+    name: Rwanda Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_007
+    name: Rwanda Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_008
+    name: Rwanda Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_009
+    name: Rwanda Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_010
+    name: Rwanda Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_011
+    name: Rwanda Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_012
+    name: Rwanda Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_013
+    name: Rwanda Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_014
+    name: Rwanda Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_015
+    name: Rwanda Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_016
+    name: Rwanda Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_017
+    name: Rwanda Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_018
+    name: Rwanda Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_019
+    name: Rwanda Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_020
+    name: Rwanda Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_021
+    name: Rwanda Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_022
+    name: Rwanda Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_023
+    name: Rwanda Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_024
+    name: Rwanda Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_025
+    name: Rwanda Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_026
+    name: Rwanda Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_027
+    name: Rwanda Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_028
+    name: Rwanda Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_029
+    name: Rwanda Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_030
+    name: Rwanda Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_031
+    name: Rwanda Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_032
+    name: Rwanda Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_033
+    name: Rwanda Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_034
+    name: Rwanda Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_035
+    name: Rwanda Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_036
+    name: Rwanda Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_037
+    name: Rwanda Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_038
+    name: Rwanda Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_039
+    name: Rwanda Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_040
+    name: Rwanda Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_041
+    name: Rwanda Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_042
+    name: Rwanda Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_043
+    name: Rwanda Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_044
+    name: Rwanda Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_045
+    name: Rwanda Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_046
+    name: Rwanda Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_047
+    name: Rwanda Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_048
+    name: Rwanda Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_049
+    name: Rwanda Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_050
+    name: Rwanda Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_051
+    name: Rwanda Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_052
+    name: Rwanda Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_053
+    name: Rwanda Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_054
+    name: Rwanda Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_055
+    name: Rwanda Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_056
+    name: Rwanda Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_057
+    name: Rwanda Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_058
+    name: Rwanda Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_059
+    name: Rwanda Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_060
+    name: Rwanda Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_061
+    name: Rwanda Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_062
+    name: Rwanda Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_063
+    name: Rwanda Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_064
+    name: Rwanda Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_065
+    name: Rwanda Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_066
+    name: Rwanda Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_067
+    name: Rwanda Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_068
+    name: Rwanda Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_069
+    name: Rwanda Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_070
+    name: Rwanda Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_071
+    name: Rwanda Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_072
+    name: Rwanda Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_073
+    name: Rwanda Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_074
+    name: Rwanda Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_075
+    name: Rwanda Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_076
+    name: Rwanda Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_077
+    name: Rwanda Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_078
+    name: Rwanda Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_079
+    name: Rwanda Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_080
+    name: Rwanda Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_081
+    name: Rwanda Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_082
+    name: Rwanda Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_083
+    name: Rwanda Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_084
+    name: Rwanda Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_085
+    name: Rwanda Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_086
+    name: Rwanda Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_087
+    name: Rwanda Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_088
+    name: Rwanda Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_089
+    name: Rwanda Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_090
+    name: Rwanda Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_091
+    name: Rwanda Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_092
+    name: Rwanda Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_093
+    name: Rwanda Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_094
+    name: Rwanda Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_095
+    name: Rwanda Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_096
+    name: Rwanda Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_097
+    name: Rwanda Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_098
+    name: Rwanda Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_099
+    name: Rwanda Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_100
+    name: Rwanda Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_101
+    name: Rwanda Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_102
+    name: Rwanda Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_103
+    name: Rwanda Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_104
+    name: Rwanda Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_105
+    name: Rwanda Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_106
+    name: Rwanda Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_107
+    name: Rwanda Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_108
+    name: Rwanda Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_109
+    name: Rwanda Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_110
+    name: Rwanda Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_111
+    name: Rwanda Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_112
+    name: Rwanda Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_113
+    name: Rwanda Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_114
+    name: Rwanda Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_115
+    name: Rwanda Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_116
+    name: Rwanda Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_117
+    name: Rwanda Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_118
+    name: Rwanda Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_119
+    name: Rwanda Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_120
+    name: Rwanda Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_121
+    name: Rwanda Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_122
+    name: Rwanda Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_123
+    name: Rwanda Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_124
+    name: Rwanda Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_125
+    name: Rwanda Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_126
+    name: Rwanda Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_127
+    name: Rwanda Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_128
+    name: Rwanda Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_129
+    name: Rwanda Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_130
+    name: Rwanda Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_131
+    name: Rwanda Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_132
+    name: Rwanda Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_133
+    name: Rwanda Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_134
+    name: Rwanda Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_135
+    name: Rwanda Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_136
+    name: Rwanda Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_137
+    name: Rwanda Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_138
+    name: Rwanda Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_139
+    name: Rwanda Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_140
+    name: Rwanda Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_141
+    name: Rwanda Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_142
+    name: Rwanda Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_143
+    name: Rwanda Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_144
+    name: Rwanda Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_145
+    name: Rwanda Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_146
+    name: Rwanda Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_147
+    name: Rwanda Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_148
+    name: Rwanda Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_149
+    name: Rwanda Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_150
+    name: Rwanda Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_151
+    name: Rwanda Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_152
+    name: Rwanda Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_153
+    name: Rwanda Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_154
+    name: Rwanda Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_155
+    name: Rwanda Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_156
+    name: Rwanda Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_157
+    name: Rwanda Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_158
+    name: Rwanda Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_159
+    name: Rwanda Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_160
+    name: Rwanda Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_161
+    name: Rwanda Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_162
+    name: Rwanda Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_163
+    name: Rwanda Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_164
+    name: Rwanda Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_165
+    name: Rwanda Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_166
+    name: Rwanda Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_167
+    name: Rwanda Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_168
+    name: Rwanda Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_169
+    name: Rwanda Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_170
+    name: Rwanda Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_171
+    name: Rwanda Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_172
+    name: Rwanda Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_173
+    name: Rwanda Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_174
+    name: Rwanda Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_175
+    name: Rwanda Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_176
+    name: Rwanda Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_177
+    name: Rwanda Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_178
+    name: Rwanda Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_179
+    name: Rwanda Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_180
+    name: Rwanda Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_181
+    name: Rwanda Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_182
+    name: Rwanda Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_183
+    name: Rwanda Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_184
+    name: Rwanda Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_185
+    name: Rwanda Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_186
+    name: Rwanda Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_187
+    name: Rwanda Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_188
+    name: Rwanda Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_189
+    name: Rwanda Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_190
+    name: Rwanda Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_191
+    name: Rwanda Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_192
+    name: Rwanda Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_193
+    name: Rwanda Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_194
+    name: Rwanda Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_195
+    name: Rwanda Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_196
+    name: Rwanda Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_197
+    name: Rwanda Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_198
+    name: Rwanda Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_199
+    name: Rwanda Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_200
+    name: Rwanda Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_201
+    name: Rwanda Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_202
+    name: Rwanda Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_203
+    name: Rwanda Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_204
+    name: Rwanda Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_205
+    name: Rwanda Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_206
+    name: Rwanda Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_207
+    name: Rwanda Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_208
+    name: Rwanda Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_209
+    name: Rwanda Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_210
+    name: Rwanda Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_211
+    name: Rwanda Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_212
+    name: Rwanda Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_213
+    name: Rwanda Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_214
+    name: Rwanda Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_215
+    name: Rwanda Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_216
+    name: Rwanda Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_217
+    name: Rwanda Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_218
+    name: Rwanda Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_219
+    name: Rwanda Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_220
+    name: Rwanda Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_221
+    name: Rwanda Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_222
+    name: Rwanda Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_223
+    name: Rwanda Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_224
+    name: Rwanda Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_225
+    name: Rwanda Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_226
+    name: Rwanda Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_227
+    name: Rwanda Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_228
+    name: Rwanda Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_229
+    name: Rwanda Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_230
+    name: Rwanda Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_231
+    name: Rwanda Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_232
+    name: Rwanda Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_233
+    name: Rwanda Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_234
+    name: Rwanda Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_235
+    name: Rwanda Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_236
+    name: Rwanda Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_237
+    name: Rwanda Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_238
+    name: Rwanda Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_239
+    name: Rwanda Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_240
+    name: Rwanda Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_241
+    name: Rwanda Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_242
+    name: Rwanda Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_243
+    name: Rwanda Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_244
+    name: Rwanda Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_245
+    name: Rwanda Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_246
+    name: Rwanda Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_247
+    name: Rwanda Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_248
+    name: Rwanda Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_249
+    name: Rwanda Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_250
+    name: Rwanda Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_251
+    name: Rwanda Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_rw_252
+    name: Rwanda Skill 252
+    status: ACTIVE_SCAFFOLD
