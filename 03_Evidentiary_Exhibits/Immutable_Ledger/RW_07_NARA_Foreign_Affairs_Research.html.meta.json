@@ -30,5 +30,6 @@
     "X-Amz-Cf-Pop": "MIA50-P3",
     "X-Amz-Cf-Id": "qnDVuGIkWjF3V90q2jA3lZh_OIDOZ2MgQ8VH0iy8qnCKN7qTVMzKug==",
     "Age": "12000"
-  }
+  },
+  "legal_review_status": "PENDING_LEGAL_REVIEW"
 }

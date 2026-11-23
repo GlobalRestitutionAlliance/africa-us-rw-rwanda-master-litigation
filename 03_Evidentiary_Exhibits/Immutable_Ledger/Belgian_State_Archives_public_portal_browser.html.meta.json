@@ -1,0 +1,16 @@
+{
+  "url": "https://arch.arch.be/",
+  "final_url": "https://www.arch.be/",
+  "title": "Belgian State Archives (public portal)",
+  "fetched_at": "2026-11-23T07:04:54.873404Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 5118,
+  "sha256": "e03943abeca255ba18d86c280958fa809194effae19c8c22e7a885cbc7245966",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true
+}

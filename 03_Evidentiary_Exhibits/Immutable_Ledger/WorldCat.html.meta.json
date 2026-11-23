@@ -8,5 +8,6 @@
   "captured_at": "2026-11-22T16:32:07.991178Z",
   "custodian": "OpenCode/harvest",
   "provenance": "direct-http-capture",
-  "batch": "2b"
+  "batch": "2b",
+  "legal_review_status": "PENDING_LEGAL_REVIEW"
 }
