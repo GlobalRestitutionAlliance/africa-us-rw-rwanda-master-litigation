@@ -32,6 +32,5 @@
     "Permissions-Policy": "geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=()",
     "CF-RAY": "a5e2e85318e83370-MIA",
     "alt-svc": "h3=\":443\"; ma=86400"
-  },
-  "legal_review_status": "PENDING_LEGAL_REVIEW"
+  }
 }

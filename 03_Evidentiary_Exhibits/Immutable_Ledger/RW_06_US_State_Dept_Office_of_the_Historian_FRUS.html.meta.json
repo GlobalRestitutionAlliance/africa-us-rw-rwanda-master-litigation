@@ -26,6 +26,5 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "referrer-policy": "strict-origin-when-cross-origin"
-  },
-  "legal_review_status": "PENDING_LEGAL_REVIEW"
+  }
 }
